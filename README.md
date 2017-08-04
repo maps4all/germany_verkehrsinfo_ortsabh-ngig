@@ -1,4 +1,4 @@
-# germany_verkehrsinfo_ortsabh-ngig
+# germany_verkehrsinfo_ortsabhaengig
 Verkehrsinfos von www.verkehrsinfo.de deutschlandweit (com.grabow.informer.source) 
 
 Es wird die Verkehrsinformation abhängig von der aktuellen Position angezeigt. 
